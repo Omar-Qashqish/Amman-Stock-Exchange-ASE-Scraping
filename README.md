@@ -44,5 +44,5 @@ This live data is also stored into a dedicated **DataFrame**.
 
 ## 🗂️ Output Formats
 - Separate and clean DataFrames
-- Saved Excel files (`.xlsx`)
+- Ready to download as Excel (`.xlsx`) files
 - Ready for insertion into SQL Server databases
