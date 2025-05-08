@@ -3,5 +3,5 @@
 This Jupyter Notebook scrapes trading data from the Amman Stock Exchange (ASE) website, specifically:
 
 - Daily Summary (ملخص التداول اليومي)
-- Market Today (بيانات السوق اليومي)
+- The Market Today (بيانات السوق اليومي)
 
